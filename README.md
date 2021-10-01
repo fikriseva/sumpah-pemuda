@@ -1,7 +1,7 @@
 # jendral soedirman (tugas 2)
 aplikasi menjelaskan tentang salah satu tokoh pahlawan sumpah pemuda di indonesia
 ### Screenshot
-Letakan gambar aplikasi disini
+![WhatsApp Image 2021-10-01 at 15 49 01](https://user-images.githubusercontent.com/90432889/135592510-e5b19966-7deb-4beb-ab90-023cc37b9d50.jpeg)
 
 ### Built With
 - widget Image, Text, Row, Column, dan Icon
